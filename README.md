@@ -1,12 +1,12 @@
 # Gus_Gun_Game
 CS 426 Homework 1
 
-W - Move Forwards
-S - Move Backwards
-A - Turn Left
-D - Turn Right
-SPACE - Jump
-L - Fire Bullets
+W - Move Forwards |
+S - Move Backwards |
+A - Turn Left |
+D - Turn Right |
+SPACE - Jump |
+L - Fire Bullets |
 U - Restart
 
 The world has wronged Gus in so many ways, we cannot possibly begin to comprehend. 
