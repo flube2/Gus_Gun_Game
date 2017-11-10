@@ -1,0 +1,63 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: Intel(R) HD Graphics (ID=0x46)
+    Vendor:   Intel
+    VRAM:     880 MB
+    Driver:   8.15.10.2993
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Admin\Desktop\Class and Code\426\cs426_Lubek_Frank_Asgn1\cs426_Lubek_Frank_Asgn1\.git\Gus_Gun_Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.034 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1758)
+
+The referenced script on this Behaviour (Game Object 'Sphere') is missing!
+ 
+(Filename:  Line: 1758)
+
+UnloadTime: 1.823512 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1988 -> priority: 1 
+  Thread -> id: 6d8 -> priority: 1 
