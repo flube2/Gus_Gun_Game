@@ -17,3 +17,5 @@ The red cubes and white poles don't move and are indestructible, but the top of 
 If the training course accumulates too many rounds of ammunition and they start getting in your way, 
 just push them under the walls and let them fall into the endless void. 
 Someday, Gus's quest may continue, but for now, this is it.
+
+On Windows, download the zip file, extract it, double click the Gus_Gun_Game.exe file, and enjoy!
